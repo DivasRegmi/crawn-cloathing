@@ -2,8 +2,11 @@
 
 This is simple ***E-COMMERSE*** app just for *learning* purpose.
 
-## Features-used
+## Library Used 
 
 - React
 - React Router
+- Firebase 
+    + Auth  
+    + Firestore
 
