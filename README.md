@@ -6,7 +6,7 @@ This is simple ***E-COMMERSE*** app just for *learning* purpose.
 
 - React
 - React Router
-- Firebase 
++ Firebase 
     + Auth  
     + Firestore
 
