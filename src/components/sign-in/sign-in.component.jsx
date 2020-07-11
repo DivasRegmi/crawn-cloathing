@@ -53,7 +53,7 @@ const SignIn = () => {
           required
         />
 
-        <div className="button">
+        <div className="buttons">
           <CustomButton type="submit">Sign in</CustomButton>
           <CustomButton onClick={signInWithGoogle} isGoogleSignIN>
             Sign in with google
