@@ -9,4 +9,5 @@ This is simple ***E-COMMERSE*** app just for *learning* purpose.
 - Firebase 
     + Auth  
     + Firestore
+- Redux 
 

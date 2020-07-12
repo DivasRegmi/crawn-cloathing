@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-import SHOP_DATA from "./2.2 shop.data.js";
+import SHOP_DATA from "./shop.data";
 import CollectionPreview from '../../components/collection-preview/collection-preview.component'
 
 const ShopPage = () => {
