@@ -24,4 +24,15 @@
       cursor: pointer;
     }
   }
-}
+
+  @media screen and (max-width:800px ) {
+
+    .logo-container{
+      padding: 10;
+    }
+
+    .options{
+      width: 80%;
+    }
+    
+  }}
